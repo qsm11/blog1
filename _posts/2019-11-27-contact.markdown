@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "contact"
+date:   2019-11-27 21:36:21 -0600
+categories: jekyll update
+---
+
+ <div style="background-color:#dbdbdb; border-radius: 10px;">
+    Call me @ (123)456-7890
+<div>
